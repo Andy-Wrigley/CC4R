@@ -1,0 +1,48 @@
+.cca-clearfix{clear:both;}
+.cca-floatl{float:left}
+.cca-floatr{float:right}
+.cca-indent20 {margin-left:20px}
+.cca-txtleft{text-align:left}
+.cca-txtright{text-align:right}
+.cca-txtcentre{text-align:center}
+.cca-hidden, .cca-short{display:none}
+
+.cca-bold{font-weight:bold}
+.cca-brown{color:brown}
+.cca-red{color:red}
+.cca-green{color:green;}
+.cca-highlight{bgcolor:yellow;background-color:yellow}
+
+.cca-msg {padding:4px 12px;border-left-width:4px;border-left-style:solid;border-left-color:#aaa;box-shadow:0px 1px 1px 0px #aaa;background-color:#FFFFCC;}
+.cca-msg.cca-msg-ok{border-left-color:#7ad03a;box-shadow:0px 1px 1px 0px #7ad03a;}
+.cca-msg.cca-msg-warn{border-left-color:#F00;box-shadow:0px 1px 1px 0px #F00;}
+.cca-widget-settings-container{border:1px solid black;background:#ccc;}
+
+.cca-widget-admin-tab,
+.ccax-tabs{margin-top:5px;position:relative;display:block;height:39px;font-size:14px;font-weight:bold;font-family:Arial,Verdana,Helvetica,sans-serif;}
+.cca-widget-admin-tab{font-size:11px;}
+.cca-widget-admin-tab ul,
+.ccax-tabs ul{margin:0;padding:0;list-style-type:none;width:auto;}
+.cca-widget-admin-tab ul li,
+.ccax-tabs ul li{background-color:#eee;display:block;float:left;color:#666;padding:5px 10px 0 10px;height:39px;border-left:1px solid #ccc;border-right:1px solid #ccc;border-top:1px solid #ccc;margin:0;}
+.cca-widget-admin-tab ul li{cursor:pointer}
+.ccax-tabs ul .cca-tab-active,
+.cca-widget-admin-tab ul .cca-tab-active{color:black;background-color:transparent;border-color:#B30000}
+.ccax-tabs ul li a{text-decoration:none;color:#666;}
+.ccax-tabs ul .cca-tab-active a{color:black;}
+.ccax-tabs ul li a:hover, .cca-widget-admin-tab ul li:hover{color:red}
+
+.cca-widget-panel-container{padding:0 0.8em 0.8em 0.8em;display:none}
+.cca-widget-panel-container.cca-panel-active{display:block}
+
+.cca-add-panel-height{height:16em}
+.cca-widget-panel-container input:disabled,.cca-widget-panel-container textarea:disabled,.cca-widget-panel-container select:disabled{background:#eeeeee;}
+.cca-widget-panel-container input,.cca-widget-panel-container textarea,.cca-widget-panel-container select{border:1px solid #aaa}
+.cca-widget-entry-div{display:none}
+.cca-widget-entry-div.cca-widget-entry-div-active{display:block}
+
+.cca-cachesettings input, .cca-cachesettings select{border: 1px solid lime}
+
+.cap{text-transform:uppercase;}
+
+.cc4r-save-button{cursor:pointer;color:white;background-color:#2ea2cc}
